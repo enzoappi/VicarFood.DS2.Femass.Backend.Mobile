@@ -10,6 +10,8 @@ export default class App extends Component {
     senha: '',
     visible: false,
     texto: ''
+
+    
   }
 
   autenicar = () =>{
